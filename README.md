@@ -2,6 +2,13 @@
 
 **App for creating automatic identicons for users**
 
+## Example
+
+Alejandro
+
+<img src="https://raw.githubusercontent.com/arincon9/elixir-identicon/master/alejandro.png"/>
+
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
